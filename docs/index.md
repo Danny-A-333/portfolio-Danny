@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Danny Antonelli"
+  text: "6.1040 Portfolio"
+  tagline: "Excited to get started!"
   actions:
     - theme: brand
       text: Template Repository
